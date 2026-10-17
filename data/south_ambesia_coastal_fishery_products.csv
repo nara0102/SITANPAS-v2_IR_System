@@ -1,0 +1,28 @@
+product_id,nama_produk,kategori,deskripsi,harga,stok,satuan,berat_kg,nama_nelayan,lokasi_nelayan,status
+84997dbb-552e-4d57-bf38-5b2cad404127,Cumi Pena,Cumi-cumi,cumi kecil panjang-panjang,1200000.00,3,box,46.00,Armansyah,"Tanjung Dako, Ambesia Selatan",active
+9b2fbd68-5cb7-4a04-b340-f2f5f9def254,Ikan Barakuda,Ikan Laut,ikan barakuda segar ukuran sedang,25000.00,230,kg,1.00,Armansyah,"Tanjung Dako, Ambesia Selatan",active
+ca296fd1-95de-41e0-aa13-5de0184c70a0,Ikan Cakalang,Ikan Laut,cakalang besar,250000.00,7,box,67.00,Armansyah,"Tanjung Dako, Ambesia Selatan",active
+28b6631f-13a4-4498-b906-6acee0da81a3,Ikan Tembang,Ikan Laut,ikan tembang kecil segar,95000.00,12,box,56.00,Armansyah,"Tanjung Dako, Ambesia Selatan",active
+7c16735f-e5d7-4460-be3d-3212e4c03bef,Ikan Tenggiri,Ikan Laut,"tenggiri sedang kecil, campur",845000.00,7,box,67.00,Armansyah,"Tanjung Dako, Ambesia Selatan",active
+e632dccc-5a3e-488f-a793-0bc03b0f48ae,Ikan Cakalang,Ikan Laut,Ikan cakalang besar baru ditangkap,35000.00,80,kg,2.00,osam,Ambesia Selatan,active
+21944c4c-3490-4110-b47d-eea0b14d7a88,Ikan Kerapu Merah,Ikan Laut,"ikan hasil pancing, enak dibakar",47000.00,6,kg,1.00,osam,Ambesia Selatan,active
+611ef4cf-0595-4542-b188-51448fc41c49,"Ikan Putih Strep Hitam ",Ikan Laut,ikan putih besar,35000.00,267,kg,1.00,osam,Ambesia Selatan,active
+e04d7d76-a85f-4230-802f-066f0edbacaa,Ikan Rono,Ikan Laut,teri sedang,19000.00,239,kg,1.00,osam,Ambesia Selatan,active
+998dc767-aea1-417c-a6b9-9579a2724b1f,Ikan Tembang Segar,Ikan Laut,tembang sedang cocok digoreng saus sambal pedas manis,27000.00,240,kg,1.00,osam,Ambesia Selatan,active
+670e85d2-93ca-421e-8a4b-d58021fe9719,Ikan Tomboroyoge,Ikan Laut,ikan rumah sedang,35000.00,427,kg,1.00,osam,Ambesia Selatan,active
+8738470a-d173-4056-8fb6-195952c06097,Teri Basah,Ikan Teri,"ikan teri kecil campur sedang ",175000.00,8,box,39.00,osam,Ambesia Selatan,active
+19f19e2d-109c-4845-9235-7143a500399a,Ikan Barakuda,Ikan Kering,"ikan barakuda kering, rasa asin pekat full daging. bisa beli ecer",23000.00,67,kg,1.00,Rahman Due,"Jl. Lapangan, Ambesia Selatan",active
+d51def9f-cf47-48f4-aee8-8d89d1d94eb1,"Ikan Kakatua ",Ikan Kering,"ikan asin kering sedang, ikan kakatua tidak terlalu asin dan lumayan berdaging. 1kg isi sampai 20. bisa beli ecer",10000.00,58,kg,1.00,Rahman Due,"Jl. Lapangan, Ambesia Selatan",active
+d5220330-1a9a-4fb0-b338-6d9747632743,Ikan Teri Asin Besar,Ikan Kering,"ikan teri kering rasa lebih asin ukuran sedang–besar, enak disaus tomat pedis manis",12000.00,132,kg,1.00,Rahman Due,"Jl. Lapangan, Ambesia Selatan",active
+48ef8b70-f7c4-4580-8752-1f27bd76701e,Ikan Teri Gross,Ikan Teri,ikan teri basah,23000.00,213,kg,1.00,Rahman Due,"Jl. Lapangan, Ambesia Selatan",active
+1d238226-2468-4575-8572-466f9d008408,Ikan Teri Putih,Ikan Kering,"ikan teri kering sedang, garing dan renyah",12000.00,87,kg,1.00,Rahman Due,"Jl. Lapangan, Ambesia Selatan",active
+c3b7a442-991a-4229-bbaa-ae86c7bcee8a,Teri Saus Pedas Manis,Ikan Teri,ikan teri saus tomat pedas manis enak pakai lauk makan,16000.00,20,kg,1.00,Rahman Due,"Jl. Lapangan, Ambesia Selatan",active
+1d0661d6-6ca5-420e-a742-27a1591aee4d,Cumi,Cumi-cumi,"cumi-cumi besar ",25000.00,9,kg,0.50,ugi,Ambesia Selatan,active
+20717954-c086-4b56-bb7f-a07e24482d83,Cumi Payung,Cumi-cumi,cumi-cumi kecil segar,35000.00,132,kg,1.00,ugi,Ambesia Selatan,active
+a12918e7-a6d7-461d-9089-c6c3c0cf59fc,Ikan Asin,Ikan kering,ikan asing daging potong-potong,17000.00,301,kg,1.00,ugi,Ambesia Selatan,active
+b086d0d1-7d74-443a-80c4-0379ae86552d,Ikan Asin Barakuda,Ikan Asin,"ikan asin olahan rumahan, enak, berdaging",15000.00,326,kg,1.00,ugi,Ambesia Selatan,active
+003de073-d2f7-4ae1-b502-b434b923f4dc,Ikan Asin Kakatua,Ikan Kering,ikan asin dengan rasa asin pekat kering tipis. cocok digoreng kering,13000.00,120,kg,1.00,ugi,Ambesia Selatan,active
+e78d5e2d-5ae4-47ee-b841-dafbb26cb634,Ikan Merah Besar,Ikan Laut,"ikan hasil pancingan, cuma 2 di dapat siapa cepat dia dapat",125000.00,2,kg,86.00,ugi,Ambesia Selatan,active
+f30b8d54-3be0-4e06-8f7d-203965769a44,"Ikan Teri Basah ",Ikan teri,null,24000.00,345,kg,1.00,ugi,Ambesia Selatan,active
+65c335ba-fb41-49c5-91b6-c4e09f9eb96e,Ikan Teri Gross,Ikan Teri,ikan teri gross basah besar-besar,195000.00,9,box,37.00,ugi,Ambesia Selatan,active
+e9cc9891-05df-4321-acc2-95e06aaf68fb,Ikan Teri Kering,Ikan Kering,ikan teri kering kecil enak digoreng tepung,47000.00,380,kg,1.00,ugi,Ambesia Selatan,active
